@@ -1,0 +1,172 @@
+.desktop2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop2-desktop2 {
+  width: 100%;
+  height: 1212px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(236, 236, 236, 1);
+}
+.desktop2-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 148px;
+  position: absolute;
+}
+.desktop2-screenshot20231220at3371 {
+  top: 47px;
+  left: 58px;
+  width: 73px;
+  height: 72px;
+  position: absolute;
+}
+.desktop2-text {
+  top: 65px;
+  left: 779px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text02 {
+  top: 65px;
+  left: 978px;
+  color: rgba(0, 0, 0, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-group1 {
+  top: 52px;
+  left: 1128px;
+  width: 173px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 0.6299999952316284);
+}
+.desktop2-text04 {
+  top: 13px;
+  left: 12px;
+  color: rgba(255, 253, 253, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-external-link {
+  top: 16px;
+  left: 125px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.desktop2-group3 {
+  top: 376px;
+  left: 153px;
+  width: 1100px;
+  height: 503.09295654296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2-text06 {
+  top: 20px;
+  left: 266.99993896484375px;
+  color: rgba(0, 0, 0, 1);
+  width: 733px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-text07 {
+  font-weight: 700;
+}
+.desktop2-text09 {
+  top: 108px;
+  left: 353.99993896484375px;
+  color: rgba(0, 0, 0, 0.41999998688697815);
+  width: 746px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-youngwomansittinginfrontoflaptop {
+  top: 0px;
+  left: 76.89301300048828px;
+  width: 318px;
+  height: 456px;
+  position: absolute;
+}
+.desktop2-link {
+  display: contents;
+}
+.desktop2-instagram {
+  top: 780px;
+  left: 630px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  text-decoration: none;
+}
+.desktop2-link1 {
+  display: contents;
+}
+.desktop2-linked-in {
+  top: 780px;
+  left: 507px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  text-decoration: none;
+}

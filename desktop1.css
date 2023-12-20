@@ -1,0 +1,304 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 2864px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(236, 236, 236, 1);
+}
+.desktop1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 148px;
+  position: absolute;
+}
+.desktop1-screenshot20231220at3371 {
+  top: 47px;
+  left: 58px;
+  width: 73px;
+  height: 72px;
+  position: absolute;
+}
+.desktop1-text {
+  top: 65px;
+  left: 779px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text02 {
+  top: 65px;
+  left: 978px;
+  color: rgb(0, 0, 0);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group1 {
+  top: 52px;
+  left: 1128px;
+  width: 173px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 0.6299999952316284);
+}
+.desktop1-text03 {
+  top: 13px;
+  left: 12px;
+  color: rgba(255, 253, 253, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-external-link {
+  top: 16px;
+  left: 125px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.desktop1-rectangle3 {
+  top: 335px;
+  left: 179px;
+  width: 1081px;
+  height: 76px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.23999999463558197);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 26px 26px 0 0;
+}
+.desktop1-ellipse1 {
+  top: 361px;
+  left: 259px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.desktop1-ellipse2 {
+  top: 361px;
+  left: 308px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.desktop1-ellipse3 {
+  top: 361px;
+  left: 357px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.desktop1-rectangle4 {
+  top: 411px;
+  left: 179px;
+  width: 1081px;
+  height: 529px;
+  position: absolute;
+}
+.desktop1-text05 {
+  top: 564px;
+  left: 407px;
+  color: rgba(0, 0, 0, 1);
+  width: 733px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  font-weight: 700;
+}
+.desktop1-text08 {
+  top: 632px;
+  left: 501px;
+  color: rgba(0, 0, 0, 0.41999998688697815);
+  width: 746px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text10 {
+  top: 1071px;
+  left: 561px;
+  color: rgba(0, 0, 0, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 1288px;
+  left: 131px;
+  color: rgba(0, 0, 0, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text14 {
+  top: 1937px;
+  left: 289px;
+  color: rgba(0, 0, 0, 1);
+  width: 860px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text16 {
+  top: 2620px;
+  left: 289px;
+  color: rgba(0, 0, 0, 1);
+  width: 860px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-mouse-scrolling {
+  top: 990px;
+  left: 692px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+.desktop1-screenshot20231220at7091 {
+  top: 1408px;
+  left: 275px;
+  width: 889px;
+  height: 504px;
+  position: absolute;
+  border-radius: 79px;
+}
+.desktop1-line1 {
+  top: 1205px;
+  left: 96px;
+  width: 1248px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-screenshot20231220at7121 {
+  top: 2115px;
+  left: 275px;
+  width: 889px;
+  height: 466px;
+  position: absolute;
+  border-radius: 78px;
+}
+.desktop1-brownskinhandwavinghello {
+  top: 487px;
+  left: 298.4128112792969px;
+  width: 234px;
+  height: 272px;
+  position: absolute;
+}
+.desktop1-group2 {
+  top: 750px;
+  left: 437px;
+  width: 317px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-right-arrow {
+  top: 3px;
+  left: 252px;
+  width: 62px;
+  height: 36px;
+  position: absolute;
+}
